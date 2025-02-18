@@ -1,2 +1,23 @@
-# covid-game
-🦠 COVID Killer COVID Killer is a simple Python game where you fight against the deadly virus! Eliminate the viruses and survive as long as possible.  🎮 Features Simple yet engaging gameplay Built using Python Fun and easy to play 🛠 Requirements Python installed on your system pip package manager
+# CovidKiller
+
+1. Make sure you have Python installed on your system, otherwise install Python at first
+```
+python --version
+```
+
+2. Clone the repository
+```
+git clone https://github.com/SajjitStha/CovidKiller.git
+```
+
+3. Install the necessary requirements
+```
+pip install -r requirements.txt
+```
+
+4. Run the project
+```
+python covid_killer.py
+```
+
+5. Enjoy the game
