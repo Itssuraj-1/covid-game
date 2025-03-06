@@ -1,5 +1,5 @@
 # CovidKiller
-  
+   
 1. Make sure you have Python installed on your system, otherwise install Python at first   
 ```
 python --version
