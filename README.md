@@ -5,7 +5,7 @@
 python --version
 ```
  
-2. Clone the repository
+2. Clone the repository 
 ```
 https://github.com/Itssuraj-1/covid-game.git
 ```
