@@ -12,7 +12,7 @@ https://github.com/Itssuraj-1/covid-game.git
 
 3. Install the necessary requirements
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 4. Run the project
